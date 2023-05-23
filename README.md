@@ -76,35 +76,25 @@
 - https://javier.xyz/ -> dev with creative coding projects
 - https://www.starterstory.com/how-to-say-no -> polite ways to say no
 - https://charm.sh/libs/ -> pretty GO cli libraries
-
-INSPIRATION
-
-- https://www.davidwilliambaum.com/
-- https://neuhaus.world/
-- https://jonny.wtf/
-- https://rubber.band/
-- https://lemoyneproject.com/
-- https://www.codeinwp.com/pattern-collection/
-- http://blog.presentandcorrect.com/typographische-monatsblatter
-- http://blog.presentandcorrect.com/form-zweck
-- https://timobecker.com/
-- https://angusnicneven.com/
-- https://timroussilhe.com/
-- https://maxbittker.com/
-- https://coolguy.website/home/
-- https://danieltemkin.com/
-- https://massmoca.org/sol-lewitt/
-- https://elefantsterribles.xyz/
-- https://anchor.fm/deepdreams
-- https://medium.com/behind-the-screens-challenge
-- https://www.calendarcollective.com/
-
-
-- https://sfpc.io/
-- https://parsonsdt.github.io/critical-coding-cookbook/
+- https://www.davidwilliambaum.com/ -> cool portifolio page
+- https://neuhaus.world/ -> interactible page in a movie-like implementation
+- https://rubber.band/ -> portifolio in a cool band way
+- https://lemoyneproject.com/ -> artist portifolio
+- https://www.codeinwp.com/pattern-collection/ -> collection of patterns from different designers
+- http://blog.presentandcorrect.com/typographische-monatsblatter -> typography inspiration old books
+- http://blog.presentandcorrect.com/form-zweck -> shapes inspiration old books
+- https://timobecker.com/ -> cool ilustrator portifolio page
+- https://angusnicneven.com/ -> creepy portifolio page
+- https://timroussilhe.com/ -> creative dev portifolio
+- https://maxbittker.com/ -> webpage of author of creative tools
+- https://danieltemkin.com/ -> portifolio of creative coder
+- https://massmoca.org/sol-lewitt/ -> list of Sol Lewitt wall paitings
+- https://medium.com/behind-the-screens-challenge -> interview with live coders (sound/images)
+- https://www.calendarcollective.com/ -> new design proposals for a calendar
 
 COURSES AND BOOKS
 
+- https://sfpc.io/ -> school for poetic computation
 - https://learningsynths.ableton.com
 - https://threejs-journey.com/
 - https://book.hacktricks.xyz/external-recon-methodology
