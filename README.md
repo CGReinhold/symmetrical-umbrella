@@ -59,38 +59,23 @@
 - https://50wattsbooks.com/ -> cool book publisher
 - https://a-fountain.glitch.me/ -> a fountain "game"
 - https://everest-pipkin.com/ -> blog with games and poetic webpages
-
-- https://www.artbreeder.com/
-- https://affinelayer.com/pixsrv/
-- https://gen.studio/
-- https://narrative-device.herokuapp.com/createstory
-- http://gaugan.org/gaugan2/
-- https://storage.googleapis.com/chimera-painter/index.html
-- https://app.inferkit.com/demo
-- https://ganpaint.io/
-- https://cleanup.pictures/
-- https://pixray.gob.io/
-- https://www.myheritage.de/deep-nostalgia
-- https://floor796.com/
-- https://lowtechguys.com/
-
-- https://matthewrayfield.com/
-- https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/
-- https://tixy.land/
-- https://cards-and-coding.click/
-- https://access.mymind.com/colors
-- https://kinopio.club/creative-coding-map-DptSBIt3CKogYKNY6dj0F
-- https://hyphahypha.com/
-- https://ezekielaquino.com/
-- https://marianopascual.me/#project22
-- https://sandspiel.club/
-- https://timesnewarial.liebermannkiepereddemann.de/?hidden=true
-- https://timrodenbroeker.de/category/all/
-- htpps://oskarstalberg.com/Townscaper
-- https://javier.xyz/
-- https://anchor.fm/deepdreams
-- https://www.starterstory.com/how-to-say-no
-- https://charm.sh/libs/
+- https://floor796.com/ -> several floor paintings with pop culture references
+- https://lowtechguys.com/ -> web page of a 2 devs team apps
+- https://matthewrayfield.com/ -> weird projects
+- https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/ -> several implementations of UI animations with checkboxes
+- https://tixy.land/ -> 2D code golfing tool
+- https://cards-and-coding.click/ -> listof codable cards and decks
+- https://access.mymind.com/colors -> handpicked color palletes
+- https://hyphahypha.com/ -> generative text typography builder
+- https://ezekielaquino.com/ -> generative score creator
+- https://marianopascual.me/#project22 -> cool portifolio page
+- https://sandspiel.club/ -> pixelated sand game
+- https://timesnewarial.liebermannkiepereddemann.de/?hidden=true -> times vs arial merger
+- https://timrodenbroeker.de/category/all/ -> cool tutorials on creative coding
+- htpps://oskarstalberg.com/Townscaper -> town builder game
+- https://javier.xyz/ -> dev with creative coding projects
+- https://www.starterstory.com/how-to-say-no -> polite ways to say no
+- https://charm.sh/libs/ -> pretty GO cli libraries
 
 INSPIRATION
 
