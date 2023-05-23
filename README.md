@@ -1,3 +1,5 @@
+## Findinds on the web
+
 - https://lofi.cafe/ -> stylish web page/radio
 - https://www.takearidewith.me/rides/ride-1 -> full-screen mountain biking
 - https://thecolorsofmotion.com/ -> movied represented with their colors
@@ -91,26 +93,18 @@
 - https://massmoca.org/sol-lewitt/ -> list of Sol Lewitt wall paitings
 - https://medium.com/behind-the-screens-challenge -> interview with live coders (sound/images)
 - https://www.calendarcollective.com/ -> new design proposals for a calendar
+- https://store.steampowered.com/developer/sokpop -> cool studio of indie games
+- https://www.escape-team.com/#print -> scape games that can be printed to be played
 
 COURSES AND BOOKS
 
 - https://sfpc.io/ -> school for poetic computation
-- https://learningsynths.ableton.com
-- https://threejs-journey.com/
-- https://book.hacktricks.xyz/external-recon-methodology
-- https://metasyn.github.io/learn-orca/
-- https://www.notion.so/CSS-Resources-That-Are-Mostly-Comics-or-Games-6df53a9fde5c4dca9bbc4c917a2d061e
-- https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/
-- https://vim-adventures.com/
-- https://www.youtube.com/user/flintyara/videos
-- https://www.youtube.com/watch?v=Q7AOvWpIVHU
-- https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/
-- https://cdm.link/2021/11/livecoding-glitch-eye-searing-colors-ai-poetry-and-the-knowledge-to-make-it-yourself-for-free/
-
-
-GAMES
-
-- https://five15game.com/
-- https://www.escape-team.com/#print
-- https://store.steampowered.com/developer/sokpop
-
+- https://learningsynths.ableton.com -> tool to learn about synths
+- https://threejs-journey.com/ -> Three.js course to learn how to create 3D web tools
+- https://metasyn.github.io/learn-orca/ -> tool to learn how to code on the ORCA language
+- https://www.notion.so/CSS-Resources-That-Are-Mostly-Comics-or-Games-6df53a9fde5c4dca9bbc4c917a2d061e -> list of CSS comics/games
+- https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/ -> shader toy tutorials
+- https://vim-adventures.com/ -> game to learn how to use VIM
+- https://www.youtube.com/watch?v=Q7AOvWpIVHU -> using Three.js to create a website
+- https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/ -> how to implement Voronoi Tessellation
+- https://cdm.link/2021/11/livecoding-glitch-eye-searing-colors-ai-poetry-and-the-knowledge-to-make-it-yourself-for-free/ -> how to livecode on hydra
