@@ -95,6 +95,16 @@
 - https://www.calendarcollective.com/ -> new design proposals for a calendar
 - https://store.steampowered.com/developer/sokpop -> cool studio of indie games
 - https://www.escape-team.com/#print -> scape games that can be printed to be played
+- https://warms.maxbittker.repl.co/ -> cool drawing tool
+- https://www.onasunbeam.com/ -> cool sci-fi webcomic
+- https://whenwe.love/forms/ -> interactive poetic form
+- https://ooo.ghostbows.ooo/ -> story from a music album
+- http://touloutoumou.com/games/mos/ -> ASCII museum of web games
+- http://solarprotocol.net/sunthinking/ -> magazine of sun powered webpages
+- https://thehtml.review/ -> magazine of poetic webpages
+- https://amansittingonacouchlookingatsomething.mildlyupset.com/ -> experiment of a webcam describing it's content every hour
+- https://everest-pipkin.com/barnacle-goose/ -> point and clicker game
+- https://two.compost.digital/clock-basket-no-1/ -> magazine of web poems
 
 COURSES AND BOOKS
 
