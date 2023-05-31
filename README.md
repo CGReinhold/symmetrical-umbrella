@@ -105,6 +105,8 @@
 - https://amansittingonacouchlookingatsomething.mildlyupset.com/ -> experiment of a webcam describing it's content every hour
 - https://everest-pipkin.com/barnacle-goose/ -> point and clicker game
 - https://two.compost.digital/clock-basket-no-1/ -> magazine of web poems
+- https://puzzlemoji.com/ -> use emojis to describe the movie
+- https://motion.zajno.com/ -> how UI/UX animations can help on the navigation of a website
 
 COURSES AND BOOKS
 
