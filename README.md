@@ -107,6 +107,10 @@
 - https://two.compost.digital/clock-basket-no-1/ -> magazine of web poems
 - https://puzzlemoji.com/ -> use emojis to describe the movie
 - https://motion.zajno.com/ -> how UI/UX animations can help on the navigation of a website
+- https://birdga.me/rebel-pipe -> play board/card games online
+- https://meat-gpt.sonnet.io/ -> meat gpt
+- https://ooh.directory/ -> website directories
+- https://rotatingsandwiches.com/ -> rotating sandwiches
 
 COURSES AND BOOKS
 
