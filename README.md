@@ -111,6 +111,8 @@
 - https://meat-gpt.sonnet.io/ -> meat gpt
 - https://ooh.directory/ -> website directories
 - https://rotatingsandwiches.com/ -> rotating sandwiches
+- https://thefreemovie.buzz/ -> drawing the Bee Movie
+- https://www.worldswritingsystems.org/ -> directory of world writing systems
 
 COURSES AND BOOKS
 
