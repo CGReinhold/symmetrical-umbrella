@@ -115,6 +115,7 @@
 - https://www.worldswritingsystems.org/ -> directory of world writing systems
 - http://mapa-nimuendaju.eita.coop.br/ -> map of indigenous languages in Brazil
 - https://www.interfacefutures.com/ -> design for futuristic interfaces
+- https://app.speechinator.com/ -> generate speeches with configurable text
 
 COURSES AND BOOKS
 
