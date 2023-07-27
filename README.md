@@ -114,6 +114,7 @@
 - https://thefreemovie.buzz/ -> drawing the Bee Movie
 - https://www.worldswritingsystems.org/ -> directory of world writing systems
 - http://mapa-nimuendaju.eita.coop.br/ -> map of indigenous languages in Brazil
+- https://www.interfacefutures.com/ -> design for futuristic interfaces
 
 COURSES AND BOOKS
 
