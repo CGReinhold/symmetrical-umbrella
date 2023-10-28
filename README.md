@@ -116,6 +116,7 @@
 - http://mapa-nimuendaju.eita.coop.br/ -> map of indigenous languages in Brazil
 - https://www.interfacefutures.com/ -> design for futuristic interfaces
 - https://app.speechinator.com/ -> generate speeches with configurable text
+- https://www.midnighttransmission.com/tv -> watch animation shows
 
 COURSES AND BOOKS
 
