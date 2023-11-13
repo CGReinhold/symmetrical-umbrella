@@ -117,6 +117,7 @@
 - https://www.interfacefutures.com/ -> design for futuristic interfaces
 - https://app.speechinator.com/ -> generate speeches with configurable text
 - https://www.midnighttransmission.com/tv -> watch animation shows
+- https://whimsical.club/ -> fun websites list
 
 COURSES AND BOOKS
 
