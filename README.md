@@ -118,6 +118,7 @@
 - https://app.speechinator.com/ -> generate speeches with configurable text
 - https://www.midnighttransmission.com/tv -> watch animation shows
 - https://whimsical.club/ -> fun websites list
+- https://www.designspells.com/ -> interesting design features in the wild
 
 COURSES AND BOOKS
 
