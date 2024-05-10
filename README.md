@@ -134,3 +134,4 @@ COURSES AND BOOKS
 - https://www.youtube.com/watch?v=Q7AOvWpIVHU -> using Three.js to create a website
 - https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/ -> how to implement Voronoi Tessellation
 - https://cdm.link/2021/11/livecoding-glitch-eye-searing-colors-ai-poetry-and-the-knowledge-to-make-it-yourself-for-free/ -> how to livecode on hydra
+- https://tcc.lovebyte.party/day1/ -> how to program with tic-80
