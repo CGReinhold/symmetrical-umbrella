@@ -135,3 +135,10 @@ COURSES AND BOOKS
 - https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/ -> how to implement Voronoi Tessellation
 - https://cdm.link/2021/11/livecoding-glitch-eye-searing-colors-ai-poetry-and-the-knowledge-to-make-it-yourself-for-free/ -> how to livecode on hydra
 - https://tcc.lovebyte.party/day1/ -> how to program with tic-80
+
+NEWSLETTERS
+
+- https://www.artatberlin.com/ -> blog about art in berlin
+- https://www.revuecolle.com/ -> newsletter about collage
+- https://www.the-syllabus.com/ -> newsletter with curated scientific papers
+- https://www.field-notes.berlin/ -> modern music in berlin nesletter
