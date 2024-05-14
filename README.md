@@ -121,6 +121,7 @@
 - https://www.designspells.com/ -> interesting design features in the wild
 - https://www.tunera.xyz/fonts/teranoptia/ -> typeface experimental com monstros ao invés de letras
 - https://taper.badquar.to/12/ -> revista de projetos legais
+- https://www.flickgame.org/ -> small game builder
 
 COURSES AND BOOKS
 
