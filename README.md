@@ -119,9 +119,10 @@
 - https://www.midnighttransmission.com/tv -> watch animation shows
 - https://whimsical.club/ -> fun websites list
 - https://www.designspells.com/ -> interesting design features in the wild
-- https://www.tunera.xyz/fonts/teranoptia/ -> typeface experimental com monstros ao invés de letras
-- https://taper.badquar.to/12/ -> revista de projetos legais
+- https://www.tunera.xyz/fonts/teranoptia/ -> experimental typeface with monsters instead of letters
+- https://taper.badquar.to/12/ -> magazine of cool projects
 - https://www.flickgame.org/ -> small game builder
+- http://tic80.com/ -> tic 80 tiny computer
 
 COURSES AND BOOKS
 
