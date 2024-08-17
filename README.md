@@ -123,6 +123,7 @@
 - https://taper.badquar.to/12/ -> magazine of cool projects
 - https://www.flickgame.org/ -> small game builder
 - http://tic80.com/ -> tic 80 tiny computer
+- https://www.wikiloc.com/ -> library of trails in the world
 
 COURSES AND BOOKS
 
