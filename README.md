@@ -146,3 +146,9 @@ NEWSLETTERS
 - https://www.revuecolle.com/ -> newsletter about collage
 - https://www.the-syllabus.com/ -> newsletter with curated scientific papers
 - https://www.field-notes.berlin/ -> modern music in berlin nesletter
+- https://gamarevista.uol.com.br/semana/ -> revista gama
+- https://substack.com/@ralphammer -> sketches about philosophy
+- https://substack.com/@alinevalek -> Aline Valek, writer
+- https://substack.com/@vanessaguedes -> Vanessa Guedes, writer
+- https://substack.com/@lalai - Lalai
+  
