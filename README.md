@@ -151,4 +151,6 @@ NEWSLETTERS
 - https://substack.com/@alinevalek -> Aline Valek, writer
 - https://substack.com/@vanessaguedes -> Vanessa Guedes, writer
 - https://substack.com/@lalai - Lalai
-  
+- https://animationobsessive.substack.com/ -> about animation in general
+- https://culturaldigital.substack.com/ -> general links online
+- https://helloruby.substack.com/ -> computer science and education
