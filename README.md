@@ -154,3 +154,5 @@ NEWSLETTERS
 - https://animationobsessive.substack.com/ -> about animation in general
 - https://culturaldigital.substack.com/ -> general links online
 - https://helloruby.substack.com/ -> computer science and education
+- https://spencerchang.substack.com/
+- 
