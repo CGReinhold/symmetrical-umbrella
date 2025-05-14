@@ -155,4 +155,7 @@ NEWSLETTERS
 - https://culturaldigital.substack.com/ -> general links online
 - https://helloruby.substack.com/ -> computer science and education
 - https://spencerchang.substack.com/
-- 
+- https://news.messynessy.com/
+- https://apublica.org/newsletter/
+- https://christophrauscher.de/
+- https://theoszczepanski.substack.com/
