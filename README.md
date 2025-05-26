@@ -159,3 +159,4 @@ NEWSLETTERS
 - https://apublica.org/newsletter/
 - https://christophrauscher.de/
 - https://theoszczepanski.substack.com/
+- https://www.mcsweeneys.net/
