@@ -125,6 +125,7 @@
 - http://tic80.com/ -> tic 80 tiny computer
 - https://www.wikiloc.com/ -> library of trails in the world
 - https://www.youtube.com/@raycathode/videos
+- https://atrailtale.com/#/
 
 COURSES AND BOOKS
 
