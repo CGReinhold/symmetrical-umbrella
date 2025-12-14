@@ -141,6 +141,8 @@ COURSES AND BOOKS
 - https://cdm.link/2021/11/livecoding-glitch-eye-searing-colors-ai-poetry-and-the-knowledge-to-make-it-yourself-for-free/ -> how to livecode on hydra
 - https://tcc.lovebyte.party/day1/ -> how to program with tic-80
 
+- https://openprocessing.org/sketch/1452264, https://editor.p5js.org/davepagurek/sketches/Jov0Dnkea -> squiggly sketches
+
 NEWSLETTERS
 
 - https://www.artatberlin.com/ -> blog about art in berlin
