@@ -126,6 +126,7 @@
 - https://www.wikiloc.com/ -> library of trails in the world
 - https://www.youtube.com/@raycathode/videos
 - https://atrailtale.com/#/
+- https://charcuterie.elastiq.ch/#114D6
 
 COURSES AND BOOKS
 
