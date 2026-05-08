@@ -164,3 +164,4 @@ NEWSLETTERS
 - https://christophrauscher.de/
 - https://theoszczepanski.substack.com/
 - https://www.mcsweeneys.net/
+- https://thenextday.substack.com
