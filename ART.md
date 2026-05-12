@@ -1,6 +1,11 @@
 ANIMATION
 
 - https://www.tsuchiyahoji.com
+
+ARTIST
+
+- https://www.sophiaangbaoartist.com/collectibles-portfolio
+- https://hagenschoenfeld.com/
 - https://lauclothing.com/
 - https://joanacroft.com
 - https://matrandom.com
@@ -16,8 +21,13 @@ ANIMATION
 - https://www.cuongscreativemarket.com
 - https://www.shiwensvenwang.com
 - https://www.jamesbeatham.com/ceramic
-
-ARTIST
-
-- https://www.sophiaangbaoartist.com/collectibles-portfolio
-- https://hagenschoenfeld.com/
+- https://www.instagram.com/charlottehornung/
+- https://go-tam.com
+- https://barbarapattern.com
+- https://www.paulinecremer.com
+- https://www.anachubini.com
+- https://yippiehey.com
+- https://comicblues.myshopify.com
+- https://www.jillsenft.com
+- https://www.instagram.com/jo_el_ru/
+- https://www.instagram.com/jeroenfunke/
