@@ -1,6 +1,9 @@
 ANIMATION
 
 - https://www.tsuchiyahoji.com
+- https://vimeo.com/jareddweiss
+- https://jondunleavy.myportfolio.com/everything-is-going-to-be-ok
+- https://conference.pictoplasma.com/berlin/animation-fest-2026/
 
 ARTIST
 
