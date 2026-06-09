@@ -3,6 +3,20 @@ ANIMATION
 - https://www.tsuchiyahoji.com
 - https://vimeo.com/jareddweiss
 - https://jondunleavy.myportfolio.com/everything-is-going-to-be-ok
+- https://rorywt.com/films
+- https://www.nolanjdowns.com/independent
+- https://www.youtube.com/@chr1st0pher/videos
+- https://www.lucasansel.com
+- https://www.notofagus.com
+- https://michellegruppetta.mystrikingly.com
+- https://kylebrooks.co/comedy-shorts-a-studio-digital
+- https://wanderson.xyz/films-1
+- https://harrybhalerao.com
+- https://miracaykin.com
+- https://merlinfluegel.de/animation/
+- https://www.joetaylor.work
+- https://walkingfish.neocities.org/films
+- https://vanjaivarsson.com/3d-animation
 - https://conference.pictoplasma.com/berlin/animation-fest-2026/
 
 ARTIST
