@@ -17,6 +17,23 @@ ANIMATION
 - https://www.joetaylor.work
 - https://walkingfish.neocities.org/films
 - https://vanjaivarsson.com/3d-animation
+- https://www.angusoakes.com/films
+- https://www.katerl.info
+- https://www.lillicarre.com/videos
+- https://sonnyelim.myportfolio.com
+- https://wormzone.tumblr.com/
+- https://www.studioshowoff.com
+- https://www.laurierowan.com
+- https://www.ariusziaee.com
+- https://augustfloren.com/various-animations
+- https://www.andrewonorato.com
+- https://www.ivandixon.com
+- https://mikemanor.me
+- http://www.bencartoon.com/content/contentdesk.html
+- https://www.thedifferentfolk.com/artist/david-gelfand/
+- https://moonjam.com
+- https://robertloebel.com
+- https://www.christajarrold.com
 - https://conference.pictoplasma.com/berlin/animation-fest-2026/
 
 ARTIST
