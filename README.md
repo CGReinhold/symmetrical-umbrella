@@ -165,6 +165,8 @@ NEWSLETTERS
 - https://theoszczepanski.substack.com/
 - https://www.mcsweeneys.net/
 - https://thenextday.substack.com
+- https://buttondown.com/perfectsentences/archive/
+- https://englishteacherweekly.substack.com/p/english-teacher-weekly-for-july-10th-d41
 
 GAMES
 
@@ -173,3 +175,4 @@ GAMES
 FONTS
 
 - https://franktisellano.github.io/datatype/
+- https://plain-form.com/typefaces/ferro?utm_source=Robin_Sloan_sent_me
