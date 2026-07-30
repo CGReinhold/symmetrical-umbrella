@@ -169,3 +169,7 @@ NEWSLETTERS
 GAMES
 
 - https://store.steampowered.com/app/4078810/Musicasa/
+
+FONTS
+
+- https://franktisellano.github.io/datatype/
