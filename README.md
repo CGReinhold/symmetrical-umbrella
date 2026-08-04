@@ -127,6 +127,7 @@
 - https://www.youtube.com/@raycathode/videos
 - https://atrailtale.com/#/
 - https://charcuterie.elastiq.ch/#114D6
+- https://y-n10.com -> empresa japonesa
 
 COURSES AND BOOKS
 
