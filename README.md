@@ -128,6 +128,12 @@
 - https://atrailtale.com/#/
 - https://charcuterie.elastiq.ch/#114D6
 - https://y-n10.com -> empresa japonesa
+- https://roland50.studio -> versão digital de sintetizadores Roland
+- https://hyperblam.how/examples/ -> biblioteca experimental para fazer música com HTML
+- https://www.shortverse.com/ -> diretório de filmes curta-metragem
+- https://oneminutepark.tv/?minute=20:54 -> vídeos de um minuto em parques pelo mundo
+- https://nicwands.com -> portifólio legal
+- https://archiveofarchives.com -> diretório de diretórios. Layout legal
 
 COURSES AND BOOKS
 
@@ -175,5 +181,6 @@ GAMES
 
 FONTS
 
+- https://www.fontshare.com
 - https://franktisellano.github.io/datatype/
 - https://plain-form.com/typefaces/ferro?utm_source=Robin_Sloan_sent_me
