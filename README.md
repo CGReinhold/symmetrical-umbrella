@@ -134,6 +134,7 @@
 - https://oneminutepark.tv/?minute=20:54 -> vídeos de um minuto em parques pelo mundo
 - https://nicwands.com -> portifólio legal
 - https://archiveofarchives.com -> diretório de diretórios. Layout legal
+- https://altctrls.info
 
 COURSES AND BOOKS
 
