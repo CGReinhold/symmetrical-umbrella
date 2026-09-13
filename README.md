@@ -184,4 +184,10 @@ FONTS
 
 - https://www.fontshare.com
 - https://franktisellano.github.io/datatype/
-- https://plain-form.com/typefaces/ferro?utm_source=Robin_Sloan_sent_me
+- https://plain-form.com/typefaces/ferro
+
+COMICS
+
+- https://www.fantagraphics.com
+- https://drawnandquarterly.com/books/
+- https://peow.studio/shop/int
