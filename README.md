@@ -186,6 +186,8 @@ FONTS
 - https://www.fontshare.com
 - https://franktisellano.github.io/datatype/
 - https://plain-form.com/typefaces/ferro
+- https://taylorpenton.com/products/bang
+- https://www.arrowtype.com
 
 COMICS
 
