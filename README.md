@@ -194,3 +194,5 @@ COMICS
 - https://www.fantagraphics.com
 - https://drawnandquarterly.com/books/
 - https://peow.studio/shop/int
+- https://neoglyphicmedia.com
+- https://www.terrybleu.com/collections/catalogue
