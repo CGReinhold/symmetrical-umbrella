@@ -136,6 +136,12 @@
 - https://archiveofarchives.com -> diretório de diretórios. Layout legal
 - https://altctrls.info
 - https://eternal.tv/catalog -> serviço de streaming para filmes antigos
+- https://github.com/LingDong-/fishdraw -> gerador de peixes
+- https://mechbird.fr -> portifolio
+- https://publicdomainreview.org/collection/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/ -> modelos de ondas
+- https://publicdomainreview.org/collection/kittens-and-cats-a-first-reader-1911-cats-and-captions-before-the-internet-age/ -> gatos
+- https://martinwecke.de/%F0%9F%8E%B5/ -> ferramentas de musica
+- https://femurdesign.com/omni/ -> sintetizador
 
 COURSES AND BOOKS
 
@@ -188,6 +194,7 @@ FONTS
 - https://plain-form.com/typefaces/ferro
 - https://taylorpenton.com/products/bang
 - https://www.arrowtype.com
+- https://publicdomainreview.org/collection/the-proper-art-of-writing-1655/
 
 COMICS
 
